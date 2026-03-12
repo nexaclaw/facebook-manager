@@ -1,0 +1,18 @@
+skill:
+  id: facebook-manager
+  name: 👥 Facebook管理
+  version: "1.0.0"
+  
+description: |
+  主页管理、广告投放、群组管理
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - facebook-manager
+  - 👥 Facebook管理
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
