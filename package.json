@@ -1,0 +1,17 @@
+{
+  "name": "facebook-manager",
+  "version": "1.0.0",
+  "description": "主页管理、广告投放、群组管理 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["facebook-manager", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/facebook-manager"
+  }
+}
